@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyCarDemo</string>
+
+
+
+    <string-array name="salon_addresses">
+        <item>г. Уфа, ул. Кирова, д. 65\2</item>
+        <item>г. Уфа, пр. Октября, д. 10</item>
+        <item>г. Уфа, ул. Ленина, д. 1</item>
+    </string-array>
+
+</resources>

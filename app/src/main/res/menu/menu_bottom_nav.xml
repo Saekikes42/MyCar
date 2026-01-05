@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/menu_home"
+        android:title="Главная" />
+
+    <item
+        android:id="@+id/nav_cart"
+        android:icon="@drawable/menu_corsina"
+        android:title="Корзина" />
+
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/menu_profile"
+        android:title="Профиль" />
+</menu>

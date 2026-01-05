@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_primary">#FFFFFF</color>
+    <color name="button_background">#181818</color>
+    <color name="button_background_secondary">#356DE5</color>
+
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#6E6E6E</color>
+    <color name="text_button">#FFFDFD</color>
+    <color name="card_background">#F9F9F9</color>
+    <color name="card_secondary">#EDEDED</color>
+
+    <color name="car_white">#FFFFFFFF</color>
+    <color name="car_black">#FF000000</color>
+    <color name="car_blue">#FF356DE5</color>
+    <color name="car_brown">#FF6B4A2E</color>
+    <color name="car_gray">#FFB0B0B0</color>
+    <color name="car_red">#FFE53935</color>
+
+    <color name="color_success">#34C759</color>
+    <color name="color_rejected">#FF3B30</color>
+    <color name="color_waiting">#FE9C12</color>
+
+</resources>

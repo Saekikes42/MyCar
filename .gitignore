@@ -1,0 +1,30 @@
+# Local tools and machine settings
+*.iml
+.gradle/
+.kotlin/
+.idea/
+local.properties
+.DS_Store
+.externalNativeBuild/
+.cxx/
+/captures/
+
+# Generated artifacts and diagnostics
+**/build/
+*.log
+*.hprof
+*.apk
+
+# Signing keys and local secrets
+*.jks
+*.keystore
+.env
+
+# Python and local SQLite data
+__pycache__/
+*.pyc
+.venv/
+*.db
+*.db-shm
+*.db-wal
+/backend/data/
